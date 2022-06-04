@@ -1,5 +1,5 @@
 # Catalogue
- <font size="2"> **FRONTOFFICE** </font>
+## **FRONTOFFICE**
 
 Application web JAVA 
 Le front-office représentera notre boutique d’oeuvre en ligne. C’est la partie visible de l’iceberg. 
