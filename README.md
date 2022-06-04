@@ -18,13 +18,13 @@ les entités métier communes au front-office et au back-office. Il permettra de
 classes communes indispensables au fonctionnement du front et du back-office. Il permettra 
 notamment d’éviter la répétition du code.
 
-### ** FIRSTAPP** 
+### **FIRSTAPP** 
 
 firstapp est une application web JAVA de démonstration que nous utiliserons pour expliquer les 
 points théoriques avant de passer à chaque fois à la pratique. Elle est l’équivalent du front-office 
 par exemple.
 
-### ** FIRSTAPPCORE** 
+### **FIRSTAPPCORE** 
 
 firstappcore est une application JAVA de démonstration que nous utiliserons pour expliquer les 
 points théoriques avant de passer à chaque fois à la pratique. Elle est l’équivalent du module core 
